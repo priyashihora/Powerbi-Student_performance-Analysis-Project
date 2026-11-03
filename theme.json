@@ -1,0 +1,7 @@
+{
+  "name": "Student Dashboard",
+  "dataColors": ["#14242F","#39505E","#526976","#8A98A1","#A9AFB3","#6F828D","#253946","#2E9E6B"],
+  "background": "#FFFFFF",
+  "foreground": "#14242F",
+  "tableAccent": "#253946"
+}
